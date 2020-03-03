@@ -2,8 +2,6 @@
   "interns": [
     {
       "id": 1,
-      "title": "hello",
-      "asd":"asdad",
       "RA":7777,
       "data_intern": "2020-03-02", 
       "nome":"Willian Varela",
@@ -15,8 +13,6 @@
     },
     {
       "id": 2,
-      "title": "hello",
-      "asd":"asdad",
       "RA":8888,
       "data_intern": "2020-03-02", 
       "nome":"Tiago pereira",
@@ -28,8 +24,6 @@
     },
     {
       "id": 3,
-      "title": "hello",
-      "asd":"asdad",
       "RA":7777,
       "data_intern": "2020-03-02", 
       "nome": "Diego Ribas",
@@ -41,8 +35,6 @@
     },
         {
       "id": 4,
-      "title": "hello",
-      "asd":"asdad",
       "RA":7777,
       "data_intern": "2020-03-02", 
       "nome":"Willian Varela",
@@ -54,8 +46,6 @@
     },
     {
       "id": 5,
-      "title": "hello",
-      "asd":"asdad",
       "RA":8888,
       "data_intern": "2020-03-02", 
       "nome":"Tiago pereira",
@@ -67,8 +57,6 @@
     },
     {
       "id": 6,
-      "title": "hello",
-      "asd":"asdad",
       "RA":7777,
       "data_intern": "2020-03-02", 
       "nome": "Diego Ribas",
@@ -80,8 +68,6 @@
     },
         {
       "id": 7,
-      "title": "hello",
-      "asd":"asdad",
       "RA":7777,
       "data_intern": "2020-03-02", 
       "nome":"Willian Varela",
@@ -93,8 +79,6 @@
     },
     {
       "id": 9,
-      "title": "hello",
-      "asd":"asdad",
       "RA":8888,
       "data_intern": "2020-03-02", 
       "nome":"Tiago pereira",
@@ -106,8 +90,6 @@
     },
     {
       "id": 10,
-      "title": "hello",
-      "asd":"asdad",
       "RA":7777,
       "data_intern": "2020-03-02", 
       "nome": "Diego Ribas",
