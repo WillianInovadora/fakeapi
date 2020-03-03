@@ -3,7 +3,15 @@
     {
       "id": 1,
       "title": "hello",
-      "asd":"asdad"
+      "asd":"asdad",
+      "RA":7777,
+      "data_intern": "2020-03-02", 
+      "nome":"Willian Varela",
+      "convenio": "SUS",
+      "medico":"Dr Tiago", 
+      "setor_quarto_leito": "412 - 12", 
+      "CID":232, 
+      "data_nascimento":"1900-11-02"
     }
   ],
   "profile": {
