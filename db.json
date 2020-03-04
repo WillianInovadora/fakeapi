@@ -104,7 +104,7 @@
         {
             "ra_id": 7777,
             "data_hora": "1988-11-02",
-            "indice_id": "1",
+            "indice_id": 1,
             "valor": 30,
             "instrumento_id": 1,
             "observacao": "Observação 1"
@@ -112,7 +112,7 @@
         {
             "ra_id": 7777,            
             "data_hora": "1988-11-02",
-            "indice_id": "1",
+            "indice_id": 1,
             "valor": 30,
             "instrumento_id": 2,
             "observacao": "Observação 1"
@@ -120,7 +120,7 @@
         {
             "ra_id": 7777,
             "data_hora": "1988-11-02",
-            "indice_id": "2",
+            "indice_id": 2,
             "valor": 30,
             "instrumento_id": 1,
             "observacao": "Observação 2"
@@ -128,7 +128,7 @@
         {
             "ra_id": 8888,
             "data_hora": "1988-11-02",
-            "indice_id": "3",
+            "indice_id": 3,
             "valor": 30,
             "instrumento_id": 2,
             "observacao": "Observação 3"
@@ -136,7 +136,7 @@
         {
             "ra_id": 8888,
             "data_hora": "1988-11-02",
-            "indice_id": "3",
+            "indice_id": 3,
             "valor": 30,
             "instrumento_id": 1,
             "observacao": "Observação 3"
@@ -144,7 +144,7 @@
         {
             "ra_id": 8888,
             "data_hora": "1988-11-02",
-            "indice_id": "3",
+            "indice_id": 3,
             "valor": 30,
             "instrumento_id": 2,
             "observacao": "Observação 3"
