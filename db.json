@@ -1,111 +1,147 @@
 {
-  "interns": [
-    {
-      "id": 1,
-      "RA":7777,
-      "data_intern": "2020-03-02", 
-      "nome":"Willian Varela",
-      "convenio": "SUS",
-      "medico":"Dr Tiago", 
-      "setor_quarto_leito": "412 - 12", 
-      "CID":232, 
-      "data_nascimento":"1900-11-02"
-    },
-    {
-      "id": 2,
-      "RA":8888,
-      "data_intern": "2020-03-02", 
-      "nome":"Tiago pereira",
-      "convenio": "SUS",
-      "medico":"Dr Willian", 
-      "setor_quarto_leito": "412 - 12", 
-      "CID":232, 
-      "data_nascimento":"1990-11-02"
-    },
-    {
-      "id": 3,
-      "RA":7777,
-      "data_intern": "2020-03-02", 
-      "nome": "Diego Ribas",
-      "convenio": "SUS",
-      "medico":"Dr Tanuri", 
-      "setor_quarto_leito": "412 - 12", 
-      "CID":232, 
-      "data_nascimento":"1988-11-02"
-    },
+    "interns": [
         {
-      "id": 4,
-      "RA":7777,
-      "data_intern": "2020-03-02", 
-      "nome":"Willian Varela",
-      "convenio": "SUS",
-      "medico":"Dr Tiago", 
-      "setor_quarto_leito": "412 - 12", 
-      "CID":232, 
-      "data_nascimento":"1900-11-02"
-    },
-    {
-      "id": 5,
-      "RA":8888,
-      "data_intern": "2020-03-02", 
-      "nome":"Tiago pereira",
-      "convenio": "SUS",
-      "medico":"Dr Willian", 
-      "setor_quarto_leito": "412 - 12", 
-      "CID":232, 
-      "data_nascimento":"1990-11-02"
-    },
-    {
-      "id": 6,
-      "RA":7777,
-      "data_intern": "2020-03-02", 
-      "nome": "Diego Ribas",
-      "convenio": "SUS",
-      "medico":"Dr Tanuri", 
-      "setor_quarto_leito": "412 - 12", 
-      "CID":232, 
-      "data_nascimento":"1988-11-02"
-    },
+            "id": 1,
+            "RA": 7777,
+            "data_intern": "2020-03-02",
+            "nome": "Willian Varela",
+            "convenio": "SUS",
+            "medico": "Dr Tiago",
+            "setor_quarto_leito": "412 - 12",
+            "CID": 232,
+            "data_nascimento": "1900-11-02"
+        },
         {
-      "id": 7,
-      "RA":7777,
-      "data_intern": "2020-03-02", 
-      "nome":"Willian Varela",
-      "convenio": "SUS",
-      "medico":"Dr Tiago", 
-      "setor_quarto_leito": "412 - 12", 
-      "CID":232, 
-      "data_nascimento":"1900-11-02"
-    },
-    {
-      "id": 9,
-      "RA":8888,
-      "data_intern": "2020-03-02", 
-      "nome":"Tiago pereira",
-      "convenio": "SUS",
-      "medico":"Dr Willian", 
-      "setor_quarto_leito": "412 - 12", 
-      "CID":232, 
-      "data_nascimento":"1990-11-02"
-    },
-    {
-      "id": 10,
-      "RA":7777,
-      "data_intern": "2020-03-02", 
-      "nome": "Diego Ribas",
-      "convenio": "SUS",
-      "medico":"Dr Tanuri", 
-      "setor_quarto_leito": "412 - 12", 
-      "CID":232, 
-      "data_nascimento":"1988-11-02"
-    }
-  ],
-  "histafericoes": [
-    {"data_hora": "1988-11-02", "indice_id":"1", "valor":30, "instrumento_id":1, "observacao":"Observação 1"},
-    {"data_hora": "1988-11-02", "indice_id":"1", "valor":30, "instrumento_id":2, "observacao":"Observação 1"},
-    {"data_hora": "1988-11-02", "indice_id":"2", "valor":30, "instrumento_id":1, "observacao":"Observação 2"},
-    {"data_hora": "1988-11-02", "indice_id":"3", "valor":30, "instrumento_id":2, "observacao":"Observação 3"},
-    {"data_hora": "1988-11-02", "indice_id":"3", "valor":30, "instrumento_id":1, "observacao":"Observação 3"},
-    {"data_hora": "1988-11-02", "indice_id":"3", "valor":30, "instrumento_id":2, "observacao":"Observação 3"},
-  }
+            "id": 2,
+            "RA": 8888,
+            "data_intern": "2020-03-02",
+            "nome": "Tiago pereira",
+            "convenio": "SUS",
+            "medico": "Dr Willian",
+            "setor_quarto_leito": "412 - 12",
+            "CID": 232,
+            "data_nascimento": "1990-11-02"
+        },
+        {
+            "id": 3,
+            "RA": 7777,
+            "data_intern": "2020-03-02",
+            "nome": "Diego Ribas",
+            "convenio": "SUS",
+            "medico": "Dr Tanuri",
+            "setor_quarto_leito": "412 - 12",
+            "CID": 232,
+            "data_nascimento": "1988-11-02"
+        },
+        {
+            "id": 4,
+            "RA": 7777,
+            "data_intern": "2020-03-02",
+            "nome": "Willian Varela",
+            "convenio": "SUS",
+            "medico": "Dr Tiago",
+            "setor_quarto_leito": "412 - 12",
+            "CID": 232,
+            "data_nascimento": "1900-11-02"
+        },
+        {
+            "id": 5,
+            "RA": 8888,
+            "data_intern": "2020-03-02",
+            "nome": "Tiago pereira",
+            "convenio": "SUS",
+            "medico": "Dr Willian",
+            "setor_quarto_leito": "412 - 12",
+            "CID": 232,
+            "data_nascimento": "1990-11-02"
+        },
+        {
+            "id": 6,
+            "RA": 7777,
+            "data_intern": "2020-03-02",
+            "nome": "Diego Ribas",
+            "convenio": "SUS",
+            "medico": "Dr Tanuri",
+            "setor_quarto_leito": "412 - 12",
+            "CID": 232,
+            "data_nascimento": "1988-11-02"
+        },
+        {
+            "id": 7,
+            "RA": 7777,
+            "data_intern": "2020-03-02",
+            "nome": "Willian Varela",
+            "convenio": "SUS",
+            "medico": "Dr Tiago",
+            "setor_quarto_leito": "412 - 12",
+            "CID": 232,
+            "data_nascimento": "1900-11-02"
+        },
+        {
+            "id": 9,
+            "RA": 8888,
+            "data_intern": "2020-03-02",
+            "nome": "Tiago pereira",
+            "convenio": "SUS",
+            "medico": "Dr Willian",
+            "setor_quarto_leito": "412 - 12",
+            "CID": 232,
+            "data_nascimento": "1990-11-02"
+        },
+        {
+            "id": 10,
+            "RA": 7777,
+            "data_intern": "2020-03-02",
+            "nome": "Diego Ribas",
+            "convenio": "SUS",
+            "medico": "Dr Tanuri",
+            "setor_quarto_leito": "412 - 12",
+            "CID": 232,
+            "data_nascimento": "1988-11-02"
+        }
+    ],
+    "histafericoes": [
+        {
+            "data_hora": "1988-11-02",
+            "indice_id": "1",
+            "valor": 30,
+            "instrumento_id": 1,
+            "observacao": "Observação 1"
+        },
+        {
+            "data_hora": "1988-11-02",
+            "indice_id": "1",
+            "valor": 30,
+            "instrumento_id": 2,
+            "observacao": "Observação 1"
+        },
+        {
+            "data_hora": "1988-11-02",
+            "indice_id": "2",
+            "valor": 30,
+            "instrumento_id": 1,
+            "observacao": "Observação 2"
+        },
+        {
+            "data_hora": "1988-11-02",
+            "indice_id": "3",
+            "valor": 30,
+            "instrumento_id": 2,
+            "observacao": "Observação 3"
+        },
+        {
+            "data_hora": "1988-11-02",
+            "indice_id": "3",
+            "valor": 30,
+            "instrumento_id": 1,
+            "observacao": "Observação 3"
+        },
+        {
+            "data_hora": "1988-11-02",
+            "indice_id": "3",
+            "valor": 30,
+            "instrumento_id": 2,
+            "observacao": "Observação 3"
+        }
+    ]
 }
