@@ -100,7 +100,12 @@
       "data_nascimento":"1988-11-02"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "histafericoes": [
+    {"data_hora": "1988-11-02", "indice_id":"1", "valor":30, "instrumento_id":1, "observacao":"Observação 1"},
+    {"data_hora": "1988-11-02", "indice_id":"1", "valor":30, "instrumento_id":2, "observacao":"Observação 1"},
+    {"data_hora": "1988-11-02", "indice_id":"2", "valor":30, "instrumento_id":1, "observacao":"Observação 2"},
+    {"data_hora": "1988-11-02", "indice_id":"3", "valor":30, "instrumento_id":2, "observacao":"Observação 3"},
+    {"data_hora": "1988-11-02", "indice_id":"3", "valor":30, "instrumento_id":1, "observacao":"Observação 3"},
+    {"data_hora": "1988-11-02", "indice_id":"3", "valor":30, "instrumento_id":2, "observacao":"Observação 3"},
   }
 }
