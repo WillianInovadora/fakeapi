@@ -77,28 +77,6 @@
             "CID": 232,
             "data_nascimento": "1900-11-02"
         },
-        {
-            "id": 9,
-            "RA": 8888,
-            "data_intern": "2020-03-02",
-            "nome": "Tiago pereira",
-            "convenio": "SUS",
-            "medico": "Dr Willian",
-            "setor_quarto_leito": "412 - 12",
-            "CID": 232,
-            "data_nascimento": "1990-11-02"
-        },
-        {
-            "id": 10,
-            "RA": 7777,
-            "data_intern": "2020-03-02",
-            "nome": "Diego Ribas",
-            "convenio": "SUS",
-            "medico": "Dr Tanuri",
-            "setor_quarto_leito": "412 - 12",
-            "CID": 232,
-            "data_nascimento": "1988-11-02"
-        }
     ],
     "histafericoes": [
         {
@@ -107,14 +85,6 @@
             "indice_id": 1,
             "valor": "30",
             "instrumento_id": 1,
-            "observacao": "Observação 1"
-        },
-        {
-            "ra_id": 7777,            
-            "data_hora": "1988-11-02",
-            "indice_id": 1,
-            "valor": "30",
-            "instrumento_id": 2,
             "observacao": "Observação 1"
         },
         {
@@ -131,14 +101,6 @@
             "indice_id": 3,
             "valor": "30",
             "instrumento_id": 2,
-            "observacao": "Observação 3"
-        },
-        {
-            "ra_id": 8888,
-            "data_hora": "1988-11-02",
-            "indice_id": 3,
-            "valor": "30",
-            "instrumento_id": 1,
             "observacao": "Observação 3"
         },
         {
