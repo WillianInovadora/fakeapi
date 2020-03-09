@@ -82,36 +82,54 @@
         {
             "id": 1,
             "ra_id": 7777,
-            "data_hora": "1988-11-02",
+            "data_hora": "2020-01-01 18:30:00",
             "indice_id": 1,
-            "valor": "30",
+            "valor": "38",
             "instrumento_id": 1,
             "observacao": "Observação 1"
         },
         {
             "id": 2,
             "ra_id": 7777,
-            "data_hora": "1988-11-02",
+            "data_hora": "2020-01-01 00:01:50",
             "indice_id": 2,
-            "valor": "30",
+            "valor": "40",
             "instrumento_id": 1,
             "observacao": "Observação 2"
         },
         {
             "id": 3,
             "ra_id": 8888,
-            "data_hora": "1988-11-02",
+            "data_hora": "2020-01-01 08:30:00",
             "indice_id": 3,
-            "valor": "30",
+            "valor": "36",
             "instrumento_id": 2,
             "observacao": "Observação 3"
         },
         {
             "id": 4,
             "ra_id": 8888,
-            "data_hora": "1988-11-02",
+            "data_hora": "2020-01-01 15:30:00",
             "indice_id": 3,
-            "valor": "30",
+            "valor": "38",
+            "instrumento_id": 2,
+            "observacao": "Observação 3"
+        },
+        {
+            "id": 5,
+            "ra_id": 8888,
+            "data_hora": "2020-01-02 18:30:00",
+            "indice_id": 3,
+            "valor": "37",
+            "instrumento_id": 2,
+            "observacao": "Observação 3"
+        },
+        {
+            "id": 7,
+            "ra_id": 7777,
+            "data_hora": "2020-01-07 18:30:00",
+            "indice_id": 3,
+            "valor": "37",
             "instrumento_id": 2,
             "observacao": "Observação 3"
         }
