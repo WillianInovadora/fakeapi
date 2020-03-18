@@ -70,10 +70,10 @@
         { "id":1, "nome":"Febre", "nome_reduzido":"FB", "outros_campos":"", "desativado":false, "tipo_balanco_hidrico":"N", "tipo":"P", 
           "indafericoesregras": [
             { "id":1, "descricao":"alta", "valor_inicial":38.5, "valor_final":40.0, "alerta":"Alta", "cor_fundo":"red" }
-          ]
+          ],
           "indafericoesusadas": [             
             { "id":1, "setor_id":1, "obrigatorio":true, "ordem":1 }
-          ]
+          ],
           "indafericoes_instrumentos": [
             { "id":1, "padrao":true, "instrumento": 1 }
           ]
