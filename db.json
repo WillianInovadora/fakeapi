@@ -65,17 +65,17 @@
     ],
     "confafericoes": [
   { "tipoafericoes": [
-    { "id":, "nome":, "tipo":,
+    { "id":1, "nome":"Sinal vital", "tipo":"SN",
       "indafericoes": [
-        { "id":, "nome":, "nome_reduzido":, "outros_campos":, "desativado":, "tipo_balanco_hidrico":, "tipo":, 
+        { "id":1, "nome":"Febre", "nome_reduzido":"FB", "outros_campos":"", "desativado":false, "tipo_balanco_hidrico":"N", "tipo":"P", 
           "indafericoesregras": [
-            { "id":, "descricao":, "valor_inicial":, "valor_final":, "alerta":, "cor_fundo": }
+            { "id":1, "descricao":"alta", "valor_inicial":38.5, "valor_final":40.0, "alerta":"Alta", "cor_fundo":"red" }
           ]
           "indafericoesusadas": [             
-            { "id":, "setor_id":, "obrigatorio":, "ordem": }
+            { "id":1, "setor_id":1, "obrigatorio":true, "ordem":1 }
           ]
           "indafericoes_instrumentos": [
-            { "id":, "padrao":, "instrumento": { "id":, "nome":, "unidade_medida_padrao": } }
+            { "id":1, "padrao":true, "instrumento": 1 }
           ]
         }
      ]
