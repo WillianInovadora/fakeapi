@@ -64,7 +64,7 @@
         }
     ],
     "confafericoes": [
-  { "tipoafericoes": [
+   "tipoafericoes": [
     { "id":1, "nome":"Sinal vital", "tipo":"SN",
       "indafericoes": [
         { "id":1, "nome":"Febre", "nome_reduzido":"FB", "outros_campos":"", "desativado":false, "tipo_balanco_hidrico":"N", "tipo":"P", 
@@ -75,7 +75,7 @@
             { "id":1, "setor_id":1, "obrigatorio":true, "ordem":1 }
           ],
           "indafericoes_instrumentos": [
-            { "id":1, "padrao":true, "instrumento": 1 
+            { "id":1, "padrao":true, "instrumento": 1 }
           ]
         }
      ]
