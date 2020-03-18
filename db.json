@@ -75,7 +75,7 @@
             { "id":1, "setor_id":1, "obrigatorio":true, "ordem":1 }
           ],
           "indafericoes_instrumentos": [
-            { "id":1, "padrao":true, "instrumento": 1 }
+            { "id":1, "padrao":true, "instrumento": 1 
           ]
         }
      ]
