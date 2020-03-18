@@ -32,50 +32,6 @@
             "setor_quarto_leito": "412 - 12",
             "cid": 232,
             "data_nascimento": "1988-11-02"
-        },
-        {
-            "id": 4,
-            "ra": 7777,
-            "data_intern": "2020-03-02",
-            "nome": "Willian Varela",
-            "convenio": "SUS",
-            "medico": "Dr Tiago",
-            "setor_quarto_leito": "412 - 12",
-            "cid": 232,
-            "data_nascimento": "1900-11-02"
-        },
-        {
-            "id": 5,
-            "ra": 8888,
-            "data_intern": "2020-03-02",
-            "nome": "Tiago pereira",
-            "convenio": "SUS",
-            "medico": "Dr Willian",
-            "setor_quarto_leito": "412 - 12",
-            "cid": 232,
-            "data_nascimento": "1990-11-02"
-        },
-        {
-            "id": 6,
-            "ra": 7777,
-            "data_intern": "2020-03-02",
-            "nome": "Diego Ribas",
-            "convenio": "SUS",
-            "medico": "Dr Tanuri",
-            "setor_quarto_leito": "412 - 12",
-            "cid": 232,
-            "data_nascimento": "1988-11-02"
-        },
-        {
-            "id": 7,
-            "ra": 7777,
-            "data_intern": "2020-03-02",
-            "nome": "Willian Varela",
-            "convenio": "SUS",
-            "medico": "Dr Tiago",
-            "setor_quarto_leito": "412 - 12",
-            "cid": 232,
-            "data_nascimento": "1900-11-02"
         }
     ],
     "histafericoes": [
@@ -89,38 +45,11 @@
             "observacao": "Observação 1"
         },
         {
-            "id": 2,
-            "ra_id": 7777,
-            "data_hora": "2020-01-01 00:01:50",
-            "indice_id": 2,
-            "valor": "40",
-            "instrumento_id": 1,
-            "observacao": "Observação 2"
-        },
-        {
-            "id": 3,
-            "ra_id": 8888,
-            "data_hora": "2020-01-01 08:30:00",
-            "indice_id": 3,
-            "valor": "36",
-            "instrumento_id": 2,
-            "observacao": "Observação 3"
-        },
-        {
             "id": 4,
             "ra_id": 8888,
             "data_hora": "2020-01-01 15:30:00",
             "indice_id": 3,
             "valor": "38",
-            "instrumento_id": 2,
-            "observacao": "Observação 3"
-        },
-        {
-            "id": 5,
-            "ra_id": 8888,
-            "data_hora": "2020-01-02 18:30:00",
-            "indice_id": 3,
-            "valor": "37",
             "instrumento_id": 2,
             "observacao": "Observação 3"
         },
@@ -133,5 +62,23 @@
             "instrumento_id": 2,
             "observacao": "Observação 3"
         }
-    ]
+    ],
+    "confafericoes": [
+  { "tipoafericoes": [
+    { "id":, "nome":, "tipo":,
+      "indafericoes": [
+        { "id":, "nome":, "nome_reduzido":, "outros_campos":, "desativado":, "tipo_balanco_hidrico":, "tipo":, 
+          "indafericoesregras": [
+            { "id":, "descricao":, "valor_inicial":, "valor_final":, "alerta":, "cor_fundo": }
+          ]
+          "indafericoesusadas": [             
+            { "id":, "setor_id":, "obrigatorio":, "ordem": }
+          ]
+          "indafericoes_instrumentos": [
+            { "id":, "padrao":, "instrumento": { "id":, "nome":, "unidade_medida_padrao": } }
+          ]
+        }
+     ]
+   }
+]
 }
