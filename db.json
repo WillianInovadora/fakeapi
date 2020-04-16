@@ -8,6 +8,7 @@
             "convenio": "SUS",
             "medico": "Dr Tiago",
             "setor_quarto_leito": "412 - 12",
+            "setor": 1,
             "cid": 232,
             "data_nascimento": "1900-11-02"
         },
@@ -18,7 +19,8 @@
             "nome": "Tiago pereira",
             "convenio": "SUS",
             "medico": "Dr Willian",
-            "setor_quarto_leito": "412 - 12",
+            "setor_quarto_leito": "412 - 13",
+            "setor": 2,
             "cid": 232,
             "data_nascimento": "1990-11-02"
         },
@@ -30,6 +32,19 @@
             "convenio": "SUS",
             "medico": "Dr Tanuri",
             "setor_quarto_leito": "412 - 12",
+            "setor": 1,
+            "cid": 232,
+            "data_nascimento": "1988-11-02"
+        },
+        {
+            "id": 4,
+            "ra": 9999,
+            "data_intern": "2020-03-02",
+            "nome": "Thor",
+            "convenio": "SUS",
+            "medico": "Dr Loki",
+            "setor_quarto_leito": "412 - 12",
+            "setor": 1,
             "cid": 232,
             "data_nascimento": "1988-11-02"
         }
